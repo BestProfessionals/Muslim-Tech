@@ -1,2 +1,2 @@
-from S import awm
+from 64 import awm
 awm()
