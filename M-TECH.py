@@ -1,1 +1,3 @@
-import SS
+from SS import mtech
+
+mtech()
