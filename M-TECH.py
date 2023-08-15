@@ -1,3 +1,1 @@
-import os
-from SS import awm
-awm()
+import SS
