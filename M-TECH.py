@@ -1,4 +1,4 @@
 import os
-from SS import mtech
+from MTECH64 import mtech
 
 mtech()
