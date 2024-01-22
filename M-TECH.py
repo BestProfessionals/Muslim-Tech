@@ -1,5 +1,5 @@
 import os,sys
-os.system('xdg-open https://www.facebook.com/Sayednasratullahmosvi1')
+os.system('xdg-open https://facebook.com/groups/892925915357288/')
 from MTECH64 import mtech
 
 mtech()
