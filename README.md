@@ -17,4 +17,7 @@ python M-TECH.py
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp--deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+93790312507)
 
+[![Youtube](https://img.shields.io/badge/Youtube--deepgreen?style=flat-square&logo=Youtube)](https://www.youtube.com/@AWM_World)
+
+
 
