@@ -19,5 +19,8 @@ python M-TECH.py
 
 [![Youtube](https://img.shields.io/badge/Youtube--deepgreen?style=flat-square&logo=Youtube)](https://www.youtube.com/@AWM_World)
 
+[![Telegram](https://img.shields.io/badge/Telegram--deepgreen?style=flat-square&logo=Telegram)](https://t.me/AWM_PROGRAMING)
+
+
 
 
